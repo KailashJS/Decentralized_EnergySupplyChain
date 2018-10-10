@@ -11,6 +11,7 @@ This inspired us to work in the energy usage management and supply chain context
 (Note:- I had done this project under mentorship of Schneider electric co. as an youth empowerment programme during my last summer, and i am the main author of this project. Now i am trying my best to implement this here in my collage)
 (You can find my work in my Github repository:- 
  https://github.com/AMSKarmajeet/Decentralized_EnergySupplyChain ).
+ (Video description link:- https://drive.google.com/open?id=14Wn6M52T1j8_QZGa4GKw5e2g_WdozdT4 ).
  
 #Challenges to Energy supply chain:-
 -conventional energy supply has high operation cost.
